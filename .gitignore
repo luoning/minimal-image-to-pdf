@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Local samples and heavy resources
+.raw/
+dist/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated output files
+*.pdf
+test_output.pdf
+1_opt.jpg
