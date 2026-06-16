@@ -1,6 +1,6 @@
 # ImageToPDF 极简无损图片转 PDF 工具
 
-[![GitHub Release](https://img.shields.io/github/v/release/luoning/ImageToPDF?color=purple&logo=github)](https://github.com/luoning/ImageToPDF/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/luoning/minimal-image-to-pdf?color=purple&logo=github)](https://github.com/luoning/minimal-image-to-pdf/releases)
 [![Python Version](https://img.shields.io/badge/python-3.12-blue.svg?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
