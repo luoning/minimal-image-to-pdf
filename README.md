@@ -1,10 +1,10 @@
 # ImageToPDF 极简无损图片转 PDF 工具
 
-[![GitHub Release](https://img.shields.io/github/v/release/your-username/ImageToPDF?color=purple&logo=github)](https://github.com/your-username/ImageToPDF/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/luoning/ImageToPDF?color=purple&logo=github)](https://github.com/luoning/ImageToPDF/releases)
 [![Python Version](https://img.shields.io/badge/python-3.12-blue.svg?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-一款遵循 Apple 极简主义设计理念的绿色免安装图片转 PDF 桌面小工具。专为将零散图片（如手机扫描件、文档照片等）快速合并、无损压缩打包为标准 A4 规格的 PDF 文件而设计。
+一款遵循极简主义设计理念的绿色免安装图片转 PDF 桌面小工具。专为将零散图片（如手机扫描件、文档照片等）快速合并、无损压缩打包为标准 A4 规格的 PDF 文件而设计。
 
 ---
 
@@ -44,7 +44,7 @@
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/your-username/ImageToPDF.git
+   git clone https://github.com/luoning/ImageToPDF.git
    cd ImageToPDF
    ```
 2. **创建并激活虚拟环境**：
